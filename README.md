@@ -18,16 +18,6 @@ I'm **Tarun Kumar Basera**, a backend-focused software engineer and competitive 
 - Interested in backend engineering, distributed systems, developer tooling, and clean APIs
 - I enjoy turning difficult problems into simple, efficient solutions
 
-## Competitive programming
-
-<table>
-  <tr>
-    <td align="center"><strong>85</strong><br /><sub>ICPC Asia Chennai<br />Regional Rank</sub></td>
-    <td align="center"><strong>1913</strong><br /><sub>LeetCode<br />Knight</sub></td>
-    <td align="center"><strong>1800+</strong><br /><sub>DSA Problems<br />Solved</sub></td>
-  </tr>
-</table>
-
 ## Engineering toolbox
 
 <p>
@@ -59,15 +49,3 @@ I'm **Tarun Kumar Basera**, a backend-focused software engineer and competitive 
     </td>
   </tr>
 </table>
-
-## Current focus
-
-```text
-Backend engineering  ███████████████████░  Java · Spring · REST · WebSocket
-Problem solving      ████████████████████  DSA · C++ · Competitive Programming
-Developer tooling    ████████████████░░░░  Playwright · Docker · CI/CD
-```
-
-<p align="center">
-  <em>Learn deeply. Build clearly. Compete relentlessly.</em>
-</p>
