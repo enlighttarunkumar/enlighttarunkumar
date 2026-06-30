@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tarun-kumar-basera-34a77024b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/tarunkumarbasera/"><img src="https://img.shields.io/badge/LeetCode-Knight_1913-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827" alt="LeetCode Knight" /></a>
-  <a href="https://codeforces.com/profile/ippo_b"><img src="https://img.shields.io/badge/Codeforces-Specialist_1497-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Specialist" /></a>
   <a href="https://icpc.global/ICPCID/1L44GX5WM1S6"><img src="https://img.shields.io/badge/ICPC-Regionalist-6E40C9?style=for-the-badge" alt="ICPC Regionalist" /></a>
 </p>
 
@@ -25,17 +24,9 @@ I'm **Tarun Kumar Basera**, a backend-focused software engineer and competitive 
   <tr>
     <td align="center"><strong>85</strong><br /><sub>ICPC Asia Chennai<br />Regional Rank</sub></td>
     <td align="center"><strong>1913</strong><br /><sub>LeetCode<br />Knight</sub></td>
-    <td align="center"><strong>1497</strong><br /><sub>Codeforces<br />Specialist</sub></td>
-    <td align="center"><strong>1794</strong><br /><sub>CodeChef<br />3★</sub></td>
     <td align="center"><strong>1800+</strong><br /><sub>DSA Problems<br />Solved</sub></td>
   </tr>
 </table>
-
-- **ICPC Asia Chennai Regionals 2025:** Rank 85
-- **IICPC 2024:** Rank 1429 among 45,000+ participants
-- **Best Codeforces global ranks:** 593, 680, and 1007
-- **Best LeetCode global ranks:** 715, 1596, and 1700
-- Problem setter and organizer for **Codeft 2024**, serving 1,200+ participants
 
 ## Engineering toolbox
 
@@ -79,11 +70,4 @@ Developer tooling    ████████████████░░░�
 
 <p align="center">
   <em>Learn deeply. Build clearly. Compete relentlessly.</em>
-</p>
-
-<p align="center">
-  <a href="https://www.codechef.com/users/tennbas41">CodeChef</a> •
-  <a href="https://www.hackerrank.com/profile/tarunkumarbasera">HackerRank</a> •
-  <a href="https://codeforces.com/profile/ippo_b">Codeforces</a> •
-  <a href="https://leetcode.com/u/tarunkumarbasera/">LeetCode</a>
 </p>
